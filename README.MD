@@ -1,6 +1,13 @@
 # PervertGram
 
 A weekend project from a cyber-pervert.
+## Installation
+
+```
+pip install -r requirements.txt
+```
+Change the config.json
+Run app.py
 
 ## Get followers/Followings/Matches
 ![](images/0.png)
